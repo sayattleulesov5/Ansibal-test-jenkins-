@@ -1,3 +1,1 @@
-#!/bin/bash
-
-curl http://127.0.0.1
+sudo curl http://127.0.0.1
